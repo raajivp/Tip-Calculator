@@ -1,4 +1,4 @@
-# Tip Calculator Website
+# Tip Calculator Website (Link:  https://raajivp.github.io/Tip-Calculator/) 
 
 This is a tip calculator website that allows users to calculate the tip amount based on the bill amount and a specified percentage. The website is built using HTML, CSS, and JavaScript.
 
